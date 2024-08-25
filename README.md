@@ -10,4 +10,4 @@ pushing the application changes to the git hub repo.
 
 <br>**Step - 2 Dockerizing the application** <br/>
 * Creating the docker file.
-*  Creating the docker compose file<br/>
+*  Creating the docker compose file.<br/>

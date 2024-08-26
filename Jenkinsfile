@@ -19,6 +19,7 @@ pipeline {
                         echo 'I only execute on the master branch'
                     } else if(env.BRANCH_NAME == 'dev'){
                         echo 'I only execute on dev'
+                    }
                         else {
                             echo 'There is a failure'
                     }
